@@ -92,7 +92,7 @@ https://flow-one.vercel.app/
 
 
 <h4 align="center">
-  Feito com por Tatiana Fischer 👋️
+  Feito por Tatiana Fischer 👋️
  
 </h4>
 <h4 align="center">
