@@ -37,6 +37,7 @@ Simple and easy.
 - [NextJS]
 - [Cookies]
 - [Vercel]
+- [TypeScript]
 
 
 ### IDE
