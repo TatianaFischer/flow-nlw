@@ -85,9 +85,26 @@ To install the dependencies and start the project, you can use Yarn ou NPM:
 https://flow-one.vercel.app/
 
 <p>
----
- <img src=""/>  
+---  
+  
+ <img src="./public/app-img.PNG"/> 
+ 
+--- 
+</p>
 
+<p>
+---
+ 
+   <img src="./public/git.gif"/>  
+
+--- 
+</p>
+
+<p>
+---
+  
+  <img src="./public/cookies.PNG"/> 
+  
 --- 
 </p>
 
